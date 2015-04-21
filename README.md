@@ -3,6 +3,8 @@ Nifty Warp is a server-side plugin (built on bukkit) that allows for private, li
 
 WARP TYPES:
 ---------------------------------
+
+[![Join the chat at https://gitter.im/niftymonkey/NiftyWarp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/niftymonkey/NiftyWarp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 "private"
 - This is the default type of a warp if no type parameter is used when adding a warp.  When listing warps,
   private warps will only show up in their owner's lists.  When warping, only the owner will be able to warp to
